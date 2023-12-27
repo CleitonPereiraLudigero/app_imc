@@ -6,12 +6,12 @@
 - [Tecnologias](#Tecnologias)
 
 
-##  Sobre
+#  Sobre
 
 Projeto desenvolvido para calcular o IMC
 
 ---
-## Tecnologias
+# Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
