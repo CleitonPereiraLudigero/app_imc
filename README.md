@@ -4,7 +4,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias](#Tecnologias)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+
 
 ##  Sobre
 
