@@ -2,7 +2,7 @@
 
 # Indice
 
-- [Sobre](#-sobre)
+- [Sobre](#-Sobre)
 - [Tecnologias](#-Tecnologias)
 
 
